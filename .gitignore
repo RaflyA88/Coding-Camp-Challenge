@@ -115,3 +115,9 @@ Thumbs.db
 
 # Cache files
 *.cache
+
+# Kiro configuration files
+.kiro/settings/
+.kiro/skills/
+.kiro/steering/
+!.kiro/steering/todo-dashboard-guide.md
